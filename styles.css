@@ -1,0 +1,65 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+  }
+  
+  header p {
+    font-style: italic;
+    margin: 0;
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    background: white;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+  }
+  
+  .intro {
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  .intro .portrait {
+    width: 150px;
+    border-radius: 50%;
+    margin: 1rem 0;
+  }
+  
+  .life, .legacy {
+    padding: 1rem;
+  }
+  
+  h2 {
+    color: #4CAF50;
+    margin-bottom: 0.5rem;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 1rem 0;
+    background: #333;
+    color: white;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
